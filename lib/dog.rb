@@ -12,4 +12,4 @@ lassie = Dog.new
 lassie.name = "Lassie"
  
 
-puts lass.name
+puts lassie.name
